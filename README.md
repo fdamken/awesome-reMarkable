@@ -179,6 +179,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [rmWacomToMouse](https://github.com/LinusCDE/rmWacomToMouse) - Use the wacom pen as a mouse to draw on your pc.
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
 - [send_by_rmapi](https://github.com/LisaGlaser/send_by_rmapi) - A Calibre plugin to send books to your reMarkable, making use of rmapi.
+- [Zotero-reMarkable Add-On](https://github.com/fdamken/zotero-remarkable) - A [Zotero](https://zotero.org) add-on allowing to push files to the reMarkable cloud (and, in the future, to pull them back) similar to Zotfile's ‘push to tablet’ functionality.
 
 ## Screen Sharing/Streaming
 
